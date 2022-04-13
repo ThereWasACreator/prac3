@@ -1,0 +1,6 @@
+VAR_CONFIG
+	::Program:EVIRD.STATE AT %IW."8I64xxxxxxx.00x-1".ETAD_Input;
+	::Program:EVIRD.COMMAND AT %QW."8I64xxxxxxx.00x-1".CMDD_Output;
+	::Program:speed AT %QW."8I64xxxxxxx.00x-1".LFRD_Output;
+	::Program:EVIRD.TORQUE AT %IW."8I64xxxxxxx.00x-1".OTR_Input;
+END_VAR

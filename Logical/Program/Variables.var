@@ -1,0 +1,8 @@
+VAR
+	speed : INT;
+	EVIRD : DRIVE;
+	speedPlus : BOOL;
+	speedMinus : BOOL;
+	reset : BOOL;
+	reverse : BOOL;
+END_VAR
